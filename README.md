@@ -9,3 +9,4 @@ https://github.com/ZallaxDev/pokeemerald-3Ds-dualscreen
 - cxitool by zoogie
 - makerom by 3DSGuy
 - 3dsx--cis by Morrisonion: https://github.com/Morrisonion/3dsx--cia
+- Dual Screen port by ZallaxDev: https://github.com/ZallaxDev/pokeemerald-3Ds-dualscreen
