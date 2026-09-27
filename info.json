@@ -4,5 +4,5 @@
   "Banner": "banner(2).png",
   "Input": "Emerald3DS.3dsx",
   "Output": "Emerald3DS.cia",
-  "Bnr_audio": "audionew.wav"
+  "Bnr_audio": "newaudio.wav"
 }
