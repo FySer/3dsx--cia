@@ -1,19 +1,11 @@
-# 3dsx--cia
-### A small script for compiling 3dsx to cia directly on GitHub
----
-## Setup
-1. Fork the repository
-2. Replace the banner.png with your banner(has to be a png and 256x128)
-3. Replace the audio.wav with your wav, or use the default(has to be under 3 seconds and 16bit-PCM)
-4. Edit info.json: replace the title id field with your title id(I recommend https://morrisonion.github.io/CTR-TIDGenerator for generating a valid title id), you can leave the product code the default
-5. You may also edit the file names of banner.png or audio.wav in info.json
-6. Now wait for the build to finish and download the cia from the given link in the logs
----
+# Emerald3DS.cia
+this is a cia version of Emerald3DS.3dsx so you can install it and launch it from your homescreen.
+the initial setup for your files is still needed.
+follow the instructions on the linked github and then install the here provided Emerald3DS.cia.
+https://github.com/ZallaxDev/pokeemerald-3Ds-dualscreen
 ### Credits
 
 - bannertool by Epicpkmn11
 - cxitool by zoogie
 - makerom by 3DSGuy
----
-### Contributing
-Create an issue or pull request to contribute
+- 3dsx--cis by Morrisonion: https://github.com/Morrisonion/3dsx--cia
